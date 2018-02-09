@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Domino_P1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Domino_P1 _ V1_jar</output-path>
+    <root id="archive" name="Domino_P1.jar">
+      <element id="module-output" name="Domino_P1" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+    </root>
+  </artifact>
+</component>
